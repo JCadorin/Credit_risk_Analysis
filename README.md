@@ -35,3 +35,6 @@ Author: Dr. Hans Hofmann
 Source: UCI - 1994
 Please cite: UCI
 German Credit dataset This dataset classifies people described by a set of attributes as good or bad credit risks.
+
+
+The complete case of this credit risk analysis can be found [HERE](https://github.com/JCadorin/Credit_risk_Analysis/blob/main/Credit_Risk_Dataset.ipynb).
